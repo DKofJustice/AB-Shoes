@@ -17,7 +17,7 @@ export default function Header() {
                 <img src={ABLogo} alt="Site Logo" className='cursor-pointer h-6 md:h-full' />
             </div>
 
-            <ul className='hidden md:block w-full md:flex flex-row justify-center items-center gap-x-[3rem] font-semibold'>
+            <ul className='hidden w-full md:flex flex-row justify-center items-center gap-x-[3rem] font-semibold'>
                 <li className='cursor-pointer'>MEN</li>
                 <li className='cursor-pointer'>WOMEN</li>
                 <li className='cursor-pointer'>NEW ARRIVALS</li>
